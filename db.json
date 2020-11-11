@@ -1,0 +1,54 @@
+{
+  "filters": [
+    {
+      "id": "template1",
+      "filters": [
+        {
+          "name": "Brand",
+          "checked": true,
+          "order": 0
+        },
+        {
+          "name": "Location",
+          "checked": true,
+          "order": 0
+        },
+        {
+          "name": "DevId",
+          "checked": true,
+          "order": 0
+        },
+        {
+          "name": "DevName",
+          "checked": true,
+          "order": 0
+        }
+      ]
+    },
+    {
+      "id": "template-2",
+      "filters": [
+        {
+          "name": "Location",
+          "checked": true,
+          "order": 0
+        },
+        {
+          "name": "DevId",
+          "checked": true,
+          "order": 0
+        },
+        {
+          "name": "DevName",
+          "checked": true,
+          "order": 0
+        },
+        {
+          "name": "CustomerId",
+          "checked": true,
+          "order": 0
+        }
+      ]
+    }
+  ]
+}
